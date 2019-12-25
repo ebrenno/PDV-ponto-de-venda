@@ -5,12 +5,12 @@
  */
 package gui;
 
-import Estilo.Cliente;
+import estilo.Cliente;
 import dao.ClienteDAO;
-import Estilo.Localidade;
+import estilo.Localidade;
 import dao.LocalidadeDAO;
-import Estilo.Produto;
-import Estilo.Venda;
+import estilo.Produto;
+import estilo.Venda;
 import dao.ProdutoDAO;
 import conexao.DatabaseFactory;
 import conexao.DatabasesURL;

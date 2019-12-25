@@ -1,6 +1,6 @@
 package dao;
 
-import Estilo.Produto;
+import estilo.Produto;
 import exception.EstoqueInsuficienteException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

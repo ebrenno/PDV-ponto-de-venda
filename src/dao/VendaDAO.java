@@ -1,8 +1,8 @@
 package dao;
 
-import Estilo.Desconto;
-import Estilo.Produto;
-import Estilo.Venda;
+import estilo.Desconto;
+import estilo.Produto;
+import estilo.Venda;
 import gui.Tabela;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

@@ -1,5 +1,5 @@
 
-package Estilo;
+package estilo;
 
 public class Produto {
     private int codProd;

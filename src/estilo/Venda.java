@@ -1,4 +1,4 @@
-package Estilo;
+package estilo;
 
 import java.util.Date;
 
